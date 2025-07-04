@@ -7,3 +7,5 @@ stoplight-id: llibky9rds5m5
 The beginning of an awesome article...
 
 Changes made from git 
+
+2. Changes made from stoplight in dev branch
