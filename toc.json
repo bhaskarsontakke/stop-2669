@@ -1,0 +1,15 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "item",
+      "title": "test",
+      "uri": "/docs/test.md"
+    },
+     {
+      "type": "item1",
+      "title": "test1",
+      "uri": "/docs/test.md"
+    }
+  ]
+}
